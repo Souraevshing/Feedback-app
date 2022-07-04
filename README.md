@@ -2,7 +2,7 @@
 
 ## Website link : https://feedback-svelte.netlify.app/
 
-![Feedback App](https://feedback-svelte.netlify.app/)
+![Feedback App](https://github.com/Souraevshing/Feedback-app/blob/main/feedback-app.png)
 
 *Psst — looking for a more complete solution? Check out [SvelteKit](https://kit.svelte.dev), the official framework for building web applications of all sizes, with a beautiful development experience and flexible filesystem-based routing.*
 
